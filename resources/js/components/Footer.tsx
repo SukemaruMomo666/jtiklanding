@@ -26,13 +26,10 @@ export default function Footer({ onOpenProfilModal }: FooterProps) {
               />
               <div>
                 <span className="block text-lg font-bold text-white tracking-tight leading-none">
-                  JTIK POLSUB
+                  Politeknik Negeri Subang
                 </span>
                 <span className="block text-xs text-slate-400 mt-1 font-medium">
                   Jurusan Teknologi Informasi dan Komputer
-                </span>
-                <span className="block text-[11px] text-slate-500 font-mono">
-                  Politeknik Negeri Subang
                 </span>
               </div>
             </div>
